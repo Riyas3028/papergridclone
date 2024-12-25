@@ -1,0 +1,14 @@
+
+li a:hover{
+    text-decoration: underline;
+    
+}
+.author{
+    max-width: 400px;
+}
+button{
+    background-color: black;
+}
+.footersec2 li{
+    list-style: none;
+}
